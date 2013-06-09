@@ -1,0 +1,4 @@
+GTRPG
+=====
+
+Genero IRC TRPG 
